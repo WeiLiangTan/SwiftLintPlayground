@@ -1,0 +1,6 @@
+framework module Pods_SwiftLintPlaygroundTests {
+  umbrella header "Pods-SwiftLintPlaygroundTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

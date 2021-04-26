@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3F7E584BEB6220DA5731CCE0 /* Pods_SwiftLintPlaygroundTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 991E59D03FDFDC7023080B98 /* Pods_SwiftLintPlaygroundTests.framework */; };
+		97ABB0D536A8E57796049239 /* Pods_SwiftLintPlayground_SwiftLintPlaygroundUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BE13D99408AAB79B537669BE /* Pods_SwiftLintPlayground_SwiftLintPlaygroundUITests.framework */; };
+		BAECA9B295C45CE268A063AD /* Pods_SwiftLintPlayground.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F8EB364DE314D86229C894F8 /* Pods_SwiftLintPlayground.framework */; };
 		C05020E32636A75A00A5D8F0 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C05020E22636A75A00A5D8F0 /* AppDelegate.swift */; };
 		C05020E52636A75A00A5D8F0 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C05020E42636A75A00A5D8F0 /* SceneDelegate.swift */; };
 		C05020E72636A75A00A5D8F0 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C05020E62636A75A00A5D8F0 /* ViewController.swift */; };
@@ -35,6 +38,14 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		01C459B2DA17B1B39E887202 /* Pods-SwiftLintPlayground-SwiftLintPlaygroundUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SwiftLintPlayground-SwiftLintPlaygroundUITests.debug.xcconfig"; path = "Target Support Files/Pods-SwiftLintPlayground-SwiftLintPlaygroundUITests/Pods-SwiftLintPlayground-SwiftLintPlaygroundUITests.debug.xcconfig"; sourceTree = "<group>"; };
+		01CF10B8D32070D87D155707 /* Pods-SwiftLintPlayground.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SwiftLintPlayground.debug.xcconfig"; path = "Target Support Files/Pods-SwiftLintPlayground/Pods-SwiftLintPlayground.debug.xcconfig"; sourceTree = "<group>"; };
+		03A6FC73611B08B3E351B0A8 /* Pods-SwiftLintPlayground.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SwiftLintPlayground.release.xcconfig"; path = "Target Support Files/Pods-SwiftLintPlayground/Pods-SwiftLintPlayground.release.xcconfig"; sourceTree = "<group>"; };
+		145AE008C8B55325CC12D52A /* Pods-SwiftLintPlaygroundTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SwiftLintPlaygroundTests.debug.xcconfig"; path = "Target Support Files/Pods-SwiftLintPlaygroundTests/Pods-SwiftLintPlaygroundTests.debug.xcconfig"; sourceTree = "<group>"; };
+		607E2BFCE7D210E63AB3E867 /* Pods-SwiftLintPlaygroundTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SwiftLintPlaygroundTests.release.xcconfig"; path = "Target Support Files/Pods-SwiftLintPlaygroundTests/Pods-SwiftLintPlaygroundTests.release.xcconfig"; sourceTree = "<group>"; };
+		8F1385DE9E2E9663426A3AF8 /* Pods-SwiftLintPlayground-SwiftLintPlaygroundUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SwiftLintPlayground-SwiftLintPlaygroundUITests.release.xcconfig"; path = "Target Support Files/Pods-SwiftLintPlayground-SwiftLintPlaygroundUITests/Pods-SwiftLintPlayground-SwiftLintPlaygroundUITests.release.xcconfig"; sourceTree = "<group>"; };
+		991E59D03FDFDC7023080B98 /* Pods_SwiftLintPlaygroundTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_SwiftLintPlaygroundTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		BE13D99408AAB79B537669BE /* Pods_SwiftLintPlayground_SwiftLintPlaygroundUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_SwiftLintPlayground_SwiftLintPlaygroundUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		C05020DF2636A75A00A5D8F0 /* SwiftLintPlayground.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftLintPlayground.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C05020E22636A75A00A5D8F0 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		C05020E42636A75A00A5D8F0 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -49,6 +60,7 @@
 		C05021002636A75B00A5D8F0 /* SwiftLintPlaygroundUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SwiftLintPlaygroundUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C05021042636A75B00A5D8F0 /* SwiftLintPlaygroundUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftLintPlaygroundUITests.swift; sourceTree = "<group>"; };
 		C05021062636A75B00A5D8F0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F8EB364DE314D86229C894F8 /* Pods_SwiftLintPlayground.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_SwiftLintPlayground.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +68,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BAECA9B295C45CE268A063AD /* Pods_SwiftLintPlayground.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -63,6 +76,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3F7E584BEB6220DA5731CCE0 /* Pods_SwiftLintPlaygroundTests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -70,12 +84,23 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				97ABB0D536A8E57796049239 /* Pods_SwiftLintPlayground_SwiftLintPlaygroundUITests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		344DBAC57DCF9658C4E7C34B /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				F8EB364DE314D86229C894F8 /* Pods_SwiftLintPlayground.framework */,
+				BE13D99408AAB79B537669BE /* Pods_SwiftLintPlayground_SwiftLintPlaygroundUITests.framework */,
+				991E59D03FDFDC7023080B98 /* Pods_SwiftLintPlaygroundTests.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 		C05020D62636A75A00A5D8F0 = {
 			isa = PBXGroup;
 			children = (
@@ -83,6 +108,8 @@
 				C05020F82636A75B00A5D8F0 /* SwiftLintPlaygroundTests */,
 				C05021032636A75B00A5D8F0 /* SwiftLintPlaygroundUITests */,
 				C05020E02636A75A00A5D8F0 /* Products */,
+				FBD3D519BADA52B94F901CB9 /* Pods */,
+				344DBAC57DCF9658C4E7C34B /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -128,6 +155,19 @@
 			path = SwiftLintPlaygroundUITests;
 			sourceTree = "<group>";
 		};
+		FBD3D519BADA52B94F901CB9 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				01CF10B8D32070D87D155707 /* Pods-SwiftLintPlayground.debug.xcconfig */,
+				03A6FC73611B08B3E351B0A8 /* Pods-SwiftLintPlayground.release.xcconfig */,
+				01C459B2DA17B1B39E887202 /* Pods-SwiftLintPlayground-SwiftLintPlaygroundUITests.debug.xcconfig */,
+				8F1385DE9E2E9663426A3AF8 /* Pods-SwiftLintPlayground-SwiftLintPlaygroundUITests.release.xcconfig */,
+				145AE008C8B55325CC12D52A /* Pods-SwiftLintPlaygroundTests.debug.xcconfig */,
+				607E2BFCE7D210E63AB3E867 /* Pods-SwiftLintPlaygroundTests.release.xcconfig */,
+			);
+			path = Pods;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -135,9 +175,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = C05021092636A75B00A5D8F0 /* Build configuration list for PBXNativeTarget "SwiftLintPlayground" */;
 			buildPhases = (
+				33444A3970805D984039F03A /* [CP] Check Pods Manifest.lock */,
 				C05020DB2636A75A00A5D8F0 /* Sources */,
 				C05020DC2636A75A00A5D8F0 /* Frameworks */,
 				C05020DD2636A75A00A5D8F0 /* Resources */,
+				C050211C2636A85300A5D8F0 /* SwiftLint */,
 			);
 			buildRules = (
 			);
@@ -152,6 +194,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = C050210C2636A75B00A5D8F0 /* Build configuration list for PBXNativeTarget "SwiftLintPlaygroundTests" */;
 			buildPhases = (
+				52B5CD5E3379EC74D4BEEDA4 /* [CP] Check Pods Manifest.lock */,
 				C05020F12636A75B00A5D8F0 /* Sources */,
 				C05020F22636A75B00A5D8F0 /* Frameworks */,
 				C05020F32636A75B00A5D8F0 /* Resources */,
@@ -170,6 +213,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = C050210F2636A75B00A5D8F0 /* Build configuration list for PBXNativeTarget "SwiftLintPlaygroundUITests" */;
 			buildPhases = (
+				9EFFBDB05889D575C77B7F83 /* [CP] Check Pods Manifest.lock */,
 				C05020FC2636A75B00A5D8F0 /* Sources */,
 				C05020FD2636A75B00A5D8F0 /* Frameworks */,
 				C05020FE2636A75B00A5D8F0 /* Resources */,
@@ -252,6 +296,93 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		33444A3970805D984039F03A /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-SwiftLintPlayground-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		52B5CD5E3379EC74D4BEEDA4 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-SwiftLintPlaygroundTests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		9EFFBDB05889D575C77B7F83 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-SwiftLintPlayground-SwiftLintPlaygroundUITests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		C050211C2636A85300A5D8F0 /* SwiftLint */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+			);
+			name = SwiftLint;
+			outputFileListPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/SwiftLint/swiftlint\"\n";
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		C05020DB2636A75A00A5D8F0 /* Sources */ = {
@@ -433,6 +564,7 @@
 		};
 		C050210A2636A75B00A5D8F0 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 01CF10B8D32070D87D155707 /* Pods-SwiftLintPlayground.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
@@ -451,6 +583,7 @@
 		};
 		C050210B2636A75B00A5D8F0 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 03A6FC73611B08B3E351B0A8 /* Pods-SwiftLintPlayground.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
@@ -469,6 +602,7 @@
 		};
 		C050210D2636A75B00A5D8F0 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 145AE008C8B55325CC12D52A /* Pods-SwiftLintPlaygroundTests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -490,6 +624,7 @@
 		};
 		C050210E2636A75B00A5D8F0 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 607E2BFCE7D210E63AB3E867 /* Pods-SwiftLintPlaygroundTests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -511,6 +646,7 @@
 		};
 		C05021102636A75B00A5D8F0 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 01C459B2DA17B1B39E887202 /* Pods-SwiftLintPlayground-SwiftLintPlaygroundUITests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
@@ -530,6 +666,7 @@
 		};
 		C05021112636A75B00A5D8F0 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 8F1385DE9E2E9663426A3AF8 /* Pods-SwiftLintPlayground-SwiftLintPlaygroundUITests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
