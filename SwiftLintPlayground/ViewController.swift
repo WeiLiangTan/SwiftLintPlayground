@@ -10,6 +10,7 @@ import UIKit
 class ViewController: UIViewController {
 
     let aa:Int = 1
+    let bb: String = "Lol"
     
     override func viewDidLoad() {
         super.viewDidLoad()
