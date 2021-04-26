@@ -15,6 +15,7 @@
 			dependencies = (
 			);
 			name = SwiftLint;
+			productName = SwiftLint;
 		};
 /* End PBXAggregateTarget section */
 
@@ -65,24 +66,24 @@
 		3545F4515E1A67E74D9CD61F8CF7CE46 /* Pods-SwiftLintPlayground-SwiftLintPlaygroundUITests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-SwiftLintPlayground-SwiftLintPlaygroundUITests-umbrella.h"; sourceTree = "<group>"; };
 		3EC0124719FE8EF5FDDD72C26F8A2F57 /* SwiftLint.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = SwiftLint.debug.xcconfig; sourceTree = "<group>"; };
 		43BBDCF6A851533198DA671DCAA93D8B /* Pods-SwiftLintPlayground.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-SwiftLintPlayground.debug.xcconfig"; sourceTree = "<group>"; };
-		4885D0AEFE8ADAF4893C4B1AD821F8D1 /* Pods_SwiftLintPlayground.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_SwiftLintPlayground.framework; path = "Pods-SwiftLintPlayground.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		4885D0AEFE8ADAF4893C4B1AD821F8D1 /* Pods_SwiftLintPlayground.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_SwiftLintPlayground.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		48AAAB43FA42FBBEC2CC56904D6700AB /* Pods-SwiftLintPlaygroundTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-SwiftLintPlaygroundTests.debug.xcconfig"; sourceTree = "<group>"; };
 		4C0D108AB3B7101A830439CFE7F021FC /* Pods-SwiftLintPlayground-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-SwiftLintPlayground-acknowledgements.markdown"; sourceTree = "<group>"; };
 		53D844D86E47BD613638F08BF99B0D95 /* Pods-SwiftLintPlaygroundTests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-SwiftLintPlaygroundTests.modulemap"; sourceTree = "<group>"; };
 		73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		7EAB1DA481EDDC005A251D3A5E6BE4CD /* SwiftLint.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = SwiftLint.release.xcconfig; sourceTree = "<group>"; };
 		9164FB01E5DA0A7207BEDCF393D26432 /* Pods-SwiftLintPlayground-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-SwiftLintPlayground-Info.plist"; sourceTree = "<group>"; };
-		939A804C09AC2756B7751290431216BD /* Pods_SwiftLintPlaygroundTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_SwiftLintPlaygroundTests.framework; path = "Pods-SwiftLintPlaygroundTests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		939A804C09AC2756B7751290431216BD /* Pods_SwiftLintPlaygroundTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_SwiftLintPlaygroundTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		9642534651043DEFB92BA7BA22A6F640 /* Pods-SwiftLintPlaygroundTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-SwiftLintPlaygroundTests.release.xcconfig"; sourceTree = "<group>"; };
 		965EAE1AAFC031DF16BDBBB1F1500457 /* Pods-SwiftLintPlayground-SwiftLintPlaygroundUITests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-SwiftLintPlayground-SwiftLintPlaygroundUITests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		96D32B27E949A633DDE10DF0A64A5ADE /* Pods-SwiftLintPlayground-SwiftLintPlaygroundUITests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-SwiftLintPlayground-SwiftLintPlaygroundUITests-Info.plist"; sourceTree = "<group>"; };
-		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		A312BDC403DDB264B38CA54161DB8DB6 /* Pods-SwiftLintPlayground-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-SwiftLintPlayground-acknowledgements.plist"; sourceTree = "<group>"; };
 		A45AC1AD247D94A99E1C232898AC918A /* Pods-SwiftLintPlayground-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-SwiftLintPlayground-umbrella.h"; sourceTree = "<group>"; };
 		AF591730ECB141C0A3FBA597BFF87D25 /* Pods-SwiftLintPlayground-SwiftLintPlaygroundUITests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-SwiftLintPlayground-SwiftLintPlaygroundUITests-dummy.m"; sourceTree = "<group>"; };
 		B42406D08BDFA296987352DB83F9E247 /* Pods-SwiftLintPlaygroundTests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-SwiftLintPlaygroundTests-acknowledgements.plist"; sourceTree = "<group>"; };
 		C48B2D6C8E70A4FFE5BE02B9C85337F7 /* Pods-SwiftLintPlayground-SwiftLintPlaygroundUITests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-SwiftLintPlayground-SwiftLintPlaygroundUITests.modulemap"; sourceTree = "<group>"; };
-		D2CF0FC7FC19FE47AB3DCF07045F1086 /* Pods_SwiftLintPlayground_SwiftLintPlaygroundUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_SwiftLintPlayground_SwiftLintPlaygroundUITests.framework; path = "Pods-SwiftLintPlayground-SwiftLintPlaygroundUITests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		D2CF0FC7FC19FE47AB3DCF07045F1086 /* Pods_SwiftLintPlayground_SwiftLintPlaygroundUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_SwiftLintPlayground_SwiftLintPlaygroundUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		D8A966DE519A57E1DCC90FA58612E42A /* Pods-SwiftLintPlaygroundTests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-SwiftLintPlaygroundTests-dummy.m"; sourceTree = "<group>"; };
 		E7839F772333AE627522BCB795084DCA /* Pods-SwiftLintPlaygroundTests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-SwiftLintPlaygroundTests-umbrella.h"; sourceTree = "<group>"; };
 		F925F8F38D31C3DB3A3851D58F0C8652 /* Pods-SwiftLintPlaygroundTests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-SwiftLintPlaygroundTests-Info.plist"; sourceTree = "<group>"; };
@@ -218,7 +219,6 @@
 			children = (
 				7FDA596DBE0337ACDFE55A210D54EF26 /* Support Files */,
 			);
-			name = SwiftLint;
 			path = SwiftLint;
 			sourceTree = "<group>";
 		};
@@ -332,7 +332,7 @@
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 1100;
-				LastUpgradeCheck = 1100;
+				LastUpgradeCheck = 1240;
 			};
 			buildConfigurationList = 4821239608C13582E20E6DA73FD5F1F9 /* Build configuration list for PBXProject "Pods" */;
 			compatibilityVersion = "Xcode 9.3";
@@ -590,7 +590,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 14.4;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -655,7 +655,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 14.4;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
@@ -712,7 +712,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -804,7 +804,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
