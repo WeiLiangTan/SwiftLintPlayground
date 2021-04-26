@@ -9,8 +9,8 @@ import UIKit
 
 class ViewController: UIViewController {
 
-    let aaa: Int = 1
-    let bbb: String = "Lol"
+    let aa: Int = 1
+    let bb:String = "Lol"
 
     override func viewDidLoad() {
         super.viewDidLoad()
