@@ -11,6 +11,7 @@ class ViewController: UIViewController {
 
     let aa:Int = 1
     let bb:String = "Lol"
+    let forceCastItem = NSNumber() as! Int
 
     override func viewDidLoad() {
         super.viewDidLoad()
