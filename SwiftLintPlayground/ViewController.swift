@@ -9,8 +9,9 @@ import UIKit
 
 class ViewController: UIViewController {
 
-    let aaa: Int = 1
-    let bbb: String = "Lol"
+    let aa:Int = 1
+    let bb:String = "Lol"
+    let forceCastItem = NSNumber() as! Int
 
     override func viewDidLoad() {
         super.viewDidLoad()
